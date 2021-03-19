@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E6E67E526044B15006C8858 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4E6E67E426044B15006C8858 /* README.md */; };
 		4E8ACAE4256A54E20012DE28 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8ACAE3256A54E20012DE28 /* AppDelegate.swift */; };
 		4E8ACAE6256A54E20012DE28 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8ACAE5256A54E20012DE28 /* SceneDelegate.swift */; };
 		4E8ACAE8256A54E20012DE28 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8ACAE7256A54E20012DE28 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E6E67E426044B15006C8858 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		4E8ACAE0256A54E20012DE28 /* Manager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Manager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E8ACAE3256A54E20012DE28 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4E8ACAE5256A54E20012DE28 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 		4E8ACAD7256A54E20012DE28 = {
 			isa = PBXGroup;
 			children = (
+				4E6E67E426044B15006C8858 /* README.md */,
 				4E8ACAFB256A568E0012DE28 /* Support.html */,
 				4E8ACAF8256A54FF0012DE28 /* Privacy.html */,
 				4E8ACAE2256A54E20012DE28 /* Manager */,
@@ -130,6 +133,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E6E67E526044B15006C8858 /* README.md in Resources */,
 				4E8ACAF0256A54E30012DE28 /* LaunchScreen.storyboard in Resources */,
 				4E8ACAFC256A568E0012DE28 /* Support.html in Resources */,
 				4E8ACAF9256A54FF0012DE28 /* Privacy.html in Resources */,
